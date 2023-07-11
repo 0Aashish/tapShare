@@ -23,7 +23,9 @@ Using TapShare is easy and straightforward. Here are the steps to follow:
 ## Upcoming Features
 
 - Facility of pasting code and sharing it too realtime
-- Establish secure shell connection (ssh) realtime between sender and receiver
+- Establish secure shell connection (ssh) realtime between sender and receiver.
+- The file can be send into telegram username  with the help of bot "tapshare" .Hence, this features is available for contributors. This features will aviable soon for other user
+
 
 ## Support
 
